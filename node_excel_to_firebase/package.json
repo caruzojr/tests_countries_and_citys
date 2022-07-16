@@ -1,0 +1,15 @@
+{
+  "name": "node_excel_to_firebase",
+  "version": "1.0.0",
+  "description": "",
+  "main": "item_create.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@google-cloud/firestore": "^5.0.2",
+    "dotenv": "^16.0.1"
+  }
+}
