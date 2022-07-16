@@ -25,7 +25,7 @@ O projeto foi prototipado no Figma, conforme o print das telas abaixo:
 
 [Clique aqui para visualizar o protótipo diretamente no figma](https://www.figma.com/proto/4GKTDFOP5hYpc0zdsPUIZT/Countries-%26-Cities?page-id=0%3A1&node-id=3%3A296&viewport=-152%2C478%2C0.71&scaling=min-zoom)
 
-![image info](./assets/images/figma_countries_cities.png)
+![image info](flutter_countries_and_cities/assets/images/figma_countries_cities.png)
 
 
 > ## Firebase, NodeJs e CSV
